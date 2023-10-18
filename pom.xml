@@ -101,13 +101,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.127.242:8081/repository/123456-release/</url>
+	      <name>sowmya release repository</name>
+	      <url>http://3.111.36.30:8081/repository/sowmya-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.127.242:8081/repository/123456-snapshot/</url>
+	      <name>sowmya snopshot repository </name>
+	      <url>http://3.111.36.30:8081/repository/sowmya-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
